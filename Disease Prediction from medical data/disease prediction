@@ -1,3 +1,4 @@
+
 This code implements a simple disease prediction system using a Naive Bayes classifier. The model is trained on a dataset containing symptoms and their corresponding diseases. The symptoms are selected from a predefined list (`l1`), and the diseases are categorized into classes represented by integers. The code uses the Tkinter library for creating a graphical user interface (GUI) to input symptoms and predict the possible disease.
 
 Here's a detailed breakdown of the code:
